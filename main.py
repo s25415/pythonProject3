@@ -77,6 +77,7 @@ def zad3():
     print("Odpowiedź: " + odp2)
     print("Pytanie: " + "W jakich okolicznościach czytasz najczęściej?")
     print("Odpowiedź: " + odp3)
+
 def answer(number, answers):
     if number.isdigit():
         if int(number)==len(answers):
